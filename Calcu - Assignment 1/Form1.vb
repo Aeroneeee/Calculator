@@ -24,6 +24,7 @@
     End Sub
 
     Private Sub Button14_Click(sender As Object, e As EventArgs) Handles Button14.Click
+        textInput.Text = textInput.Text.TrimStart("0"c)
         textInput.Text += ("7")
     End Sub
 
