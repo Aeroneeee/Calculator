@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,11 +20,11 @@ Partial Class Form1
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.Label2 = New System.Windows.Forms.Label()
+        Me.textInput = New System.Windows.Forms.Label()
         Me.Button35 = New System.Windows.Forms.Button()
         Me.Button34 = New System.Windows.Forms.Button()
         Me.Button33 = New System.Windows.Forms.Button()
@@ -83,15 +83,16 @@ Partial Class Form1
         Me.Label1.TabIndex = 35
         Me.Label1.Text = "Scientific"
         '
-        'Label2
+        'textInput
         '
-        Me.Label2.AutoSize = True
-        Me.Label2.Font = New System.Drawing.Font("Segoe UI Semibold", 36.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(262, 51)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(55, 65)
-        Me.Label2.TabIndex = 36
-        Me.Label2.Text = "0"
+        Me.textInput.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.textInput.Font = New System.Drawing.Font("Segoe UI Semibold", 36.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.textInput.Location = New System.Drawing.Point(2, 57)
+        Me.textInput.Name = "textInput"
+        Me.textInput.Size = New System.Drawing.Size(308, 65)
+        Me.textInput.TabIndex = 36
+        Me.textInput.Text = "0"
+        Me.textInput.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         '
         'Button35
         '
@@ -784,7 +785,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button5)
-        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.textInput)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button31)
         Me.Controls.Add(Me.Button32)
@@ -798,7 +799,7 @@ Partial Class Form1
 
     End Sub
     Friend WithEvents Label1 As Label
-    Friend WithEvents Label2 As Label
+    Friend WithEvents textInput As Label
     Friend WithEvents Button35 As Button
     Friend WithEvents Button34 As Button
     Friend WithEvents Button33 As Button

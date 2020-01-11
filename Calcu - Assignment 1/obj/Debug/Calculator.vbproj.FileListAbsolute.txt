@@ -1,0 +1,11 @@
+C:\Users\Aerone\source\repos\Calculator\Calcu - Assignment 1\bin\Debug\Calcu - Assignment 1.exe.config
+C:\Users\Aerone\source\repos\Calculator\Calcu - Assignment 1\bin\Debug\Calcu - Assignment 1.exe
+C:\Users\Aerone\source\repos\Calculator\Calcu - Assignment 1\bin\Debug\Calcu - Assignment 1.pdb
+C:\Users\Aerone\source\repos\Calculator\Calcu - Assignment 1\bin\Debug\Calcu - Assignment 1.xml
+C:\Users\Aerone\source\repos\Calculator\Calcu - Assignment 1\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\Aerone\source\repos\Calculator\Calcu - Assignment 1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Aerone\source\repos\Calculator\Calcu - Assignment 1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Aerone\source\repos\Calculator\Calcu - Assignment 1\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\Aerone\source\repos\Calculator\Calcu - Assignment 1\obj\Debug\Calcu - Assignment 1.exe
+C:\Users\Aerone\source\repos\Calculator\Calcu - Assignment 1\obj\Debug\Calcu - Assignment 1.xml
+C:\Users\Aerone\source\repos\Calculator\Calcu - Assignment 1\obj\Debug\Calcu - Assignment 1.pdb
